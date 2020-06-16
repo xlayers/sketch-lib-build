@@ -1,0 +1,23 @@
+{
+  "name": "@xlayers/sketch-lib",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.0.0",
+    "@angular/core": "^8.0.0",
+    "param-case": "^2.1.1",
+    "pascal-case": "^2.0.1"
+  },
+  "main": "bundles/xlayers-sketch-lib.umd.js",
+  "module": "fesm5/xlayers-sketch-lib.js",
+  "es2015": "fesm2015/xlayers-sketch-lib.js",
+  "esm5": "esm5/xlayers-sketch-lib.js",
+  "esm2015": "esm2015/xlayers-sketch-lib.js",
+  "fesm5": "fesm5/xlayers-sketch-lib.js",
+  "fesm2015": "fesm2015/xlayers-sketch-lib.js",
+  "typings": "xlayers-sketch-lib.d.ts",
+  "metadata": "xlayers-sketch-lib.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
